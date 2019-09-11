@@ -13,22 +13,24 @@ Instead of organizing things from the artist down, iTunes organizes things from 
 
 and the rest of the album would be in there and the directory paths would look something like:
 
-`~/Music/Ghostface Killah/More Fish/Back Like That (Remix) feat Kanye West & Ne-Y.mp3`
-`~/Music/Ghostface Killah/More Fish/Street Opera feat Sun-God.mp3`
-`~/Music/Ghostface Killah/More Fish/Guns N' Razors (Feat. Trife Da God, Cappadonna & Killa Sin).mp3`
-`etc.`
-`etc.`
+```
+~/Music/Ghostface Killah/More Fish/Back Like That (Remix) feat Kanye West & Ne-Y.mp3
+~/Music/Ghostface Killah/More Fish/Street Opera feat Sun-God.mp3
+~/Music/Ghostface Killah/More Fish/Guns N' Razors (Feat. Trife Da God, Cappadonna & Killa Sin).mp3
+etc.
+etc.
+```
 
 However, when iTunes got its little mits on these songs and went out to their libraray db to, I assume, verify id3 tags or verify legality (lol), it would reorganize everything so that I ended up the messiest file structure. The resulting directory paths of the same songs would now look like:
 
-
-`/Music/Ghostface Killah & Amy Winehouse/More Fish/You Know I'm No Good feat. Amy Winehouse.mp3`
-`~/Music/Ghostface Killah Feat. Kanye West & Ne-Y/More Fish/Back Like That (Remix) feat Kanye West & Ne-Y.mp3`
-`~/Music/Ghostface Killah Feat. Sun God/More Fish/Street Opera feat Sun-God.mp3`
-`~/Music/Ghostface Killah Feat. Trife Da God, Cappadonna & Killa Sin/More Fish/Guns N' Razors (Feat. Trife Da God, Cappadonna & Killa Sin).mp3`
-`etc.`
-`etc.`
-
+```
+/Music/Ghostface Killah & Amy Winehouse/More Fish/You Know I'm No Good feat. Amy Winehouse.mp3
+~/Music/Ghostface Killah Feat. Kanye West & Ne-Y/More Fish/Back Like That (Remix) feat Kanye West & Ne-Y.mp3
+~/Music/Ghostface Killah Feat. Sun God/More Fish/Street Opera feat Sun-God.mp3
+~/Music/Ghostface Killah Feat. Trife Da God, Cappadonna & Killa Sin/More Fish/Guns N' Razors (Feat. Trife Da God, Cappadonna & Killa Sin).mp3
+etc.
+etc.
+```
 This is not a problem if you're on iTunes on your computer or use an iPhone that forces you to use iTunes. There are some of us, however, that aren't so beholden to Apple's products and like to listen to music files on an SD card in their phone. I use VLC, which has its own limits, but when I try to pick out something to listen to, I can't just go to Ghostface Killah's folder and peruse albums because I will only get songs where Ghostface is the sole artist. 
 
 If I want to listen to More Fish in its entirety, I'd have to hunt each song down by all artists involved in the song and create a playlist on the go. By the time I've finished this, I'm either 20 mins late to where ever I was going, or I just got hit by a bus because I was walking and creating a playlist and not paying attention. This is a problem!
