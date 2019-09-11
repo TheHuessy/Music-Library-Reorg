@@ -24,7 +24,7 @@ etc.
 However, when iTunes got its little mits on these songs and went out to their libraray db to, I assume, verify id3 tags or verify legality (lol), it would reorganize everything so that I ended up the messiest file structure. The resulting directory paths of the same songs would now look like:
 
 ```
-/Music/Ghostface Killah & Amy Winehouse/More Fish/You Know I'm No Good feat. Amy Winehouse.mp3
+~/Music/Ghostface Killah & Amy Winehouse/More Fish/You Know I'm No Good feat. Amy Winehouse.mp3
 ~/Music/Ghostface Killah Feat. Kanye West & Ne-Y/More Fish/Back Like That (Remix) feat Kanye West & Ne-Y.mp3
 ~/Music/Ghostface Killah Feat. Sun God/More Fish/Street Opera feat Sun-God.mp3
 ~/Music/Ghostface Killah Feat. Trife Da God, Cappadonna & Killa Sin/More Fish/Guns N' Razors (Feat. Trife Da God, Cappadonna & Killa Sin).mp3
