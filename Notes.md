@@ -38,5 +38,6 @@ Going to overhaul this so it's over engineered and forces me to focus on structu
 * Image handling
 * Music info API handling
 
-
+### Future Additions
+* Convert/modify to utilize Spark/pyspark and see if this sort of operation would be faster on an ARM Spark cluster (2 data nodes) vs a gaming PC
 	
