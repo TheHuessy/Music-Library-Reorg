@@ -63,10 +63,7 @@ def count_exts():
 ## Have to hard code the names of the available tasks to list in the argparser help/description
 tasks_available = ["extension_count"]
 
-
 arg_parser = argparse.ArgumentParser(description='A collection of helpful tasks to build this project')
-
-
 
 arg_parser.add_argument('task', metavar='task', type=str, help='The task to execute. Available tasks:\n{}'.format("\n".join(tasks_available)))
 
