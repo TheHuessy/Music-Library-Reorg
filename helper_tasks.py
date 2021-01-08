@@ -74,3 +74,4 @@ if args.task not in tasks_available:
 elif args.task == "extension_count":
 	count_exts()
 
+
