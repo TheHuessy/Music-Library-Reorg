@@ -6,7 +6,7 @@ import sqlalchemy
 class SQLEngine:
 
     def conn_string_gen(self, user_name, pw, host):
-        output_conn_string = "postgresql+psycopg2://{}:{}@{}/strobot".format(user_name, pw, host)
+        output_conn_string = "postgresql+psycopg2://{}:{}@{}/postgres".format(user_name, pw, host)
         return(output_conn_string)
 
     def __init__(self):
