@@ -18,14 +18,14 @@ def get_mp3_info(path):
     cleaned_album = re.sub(pattern=album_regex, repl="", string=tag_info.album).strip()
     song_title = tag_info.title if tag_info.title else None
     cleaned_song_title = re.sub(pattern=title_regex, repl="", string=tag_info.title).strip()
-    
+
     data = {"artist": artist, 
     "album": album, 
     "title": song_title, 
     "cleaned_album": cleaned_album, 
     "cleaned_title": cleaned_song_title
     }
-    
+
     return(data)
 
 # That ^ but for mp4/m4u
